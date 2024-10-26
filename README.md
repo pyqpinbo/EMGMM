@@ -1,20 +1,20 @@
 # GaussianMixture
 EMGMM (EM Alrotithm for Gaussian Mixture Model), is an EM algorithm to do model selection for Gaussian mixture models.
 
-1. Installation
+# Installation
 
-  library(devtools)
+library(devtools)
 
-  install_github("pyqpinbo/EMGMM")
+install_github("pyqpinbo/EMGMM")
 
-  library(EMGMM)
-
-
-2. References
-
-  Tao Huang, Heng Peng, Kun Zhang; Model Selection for Gaussian Mixture Models, Statistica Sinica, 2017.
+library(EMGMM)
 
 
-3. Development
+# References
 
-  This R package is developed by Youquan Pei (ypeistat@sdu.edu.cn)
+Tao Huang, Heng Peng, Kun Zhang; Model Selection for Gaussian Mixture Models, Statistica Sinica, 2017.
+
+
+# Development
+
+This R package is developed by 裴有权 (ypeistat@sdu.edu.cn)
